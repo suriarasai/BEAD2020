@@ -11,5 +11,5 @@ Upon effective completion of the course, participants will be able to:
 - Understand the distributed storage essentials, storage needs, and relevant architectural mechanism in processing large amounts of structured, semi-structured and unstructured data. 
 - Gain expertise with the fault-tolerant computing framework (E.g. YARN) by setting up pseudo cluster nodes or cloud based nodes for processing big data. . 
 - Organize, store and manipulate the collected data using processing libraries. For example, using special statistical operation and stream processing data tools (E.g. Spark Special Libraries). 
-- Understand various data processing, querying and persistence (E.g. Spark QL APIs) available for usage in RDD’s context. Perform tasks such as filtering, selection and categorization. 
+- Understand various data processing, querying and persistence (E.g. Spark QL APIs) available for usage in both RDD’s and Data Frame context. Perform tasks such as filtering, selection and categorization. 
 - Implement machine learning algorithms using Spark ML libraries.
