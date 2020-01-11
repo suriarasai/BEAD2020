@@ -1,4 +1,4 @@
-LCREATE TABLE Movies (
+CREATE TABLE Movies (
     VideoCode    SMALLINT      NOT NULL,
     MovieTitle   VARCHAR (50)  NULL,
     MovieType    VARCHAR (10)  NULL,
