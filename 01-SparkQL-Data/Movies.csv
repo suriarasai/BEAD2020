@@ -1,0 +1,313 @@
+VideoCode,MovieTitle,MovieType,Rating,RentalPrice,ProducerCode,Director,Media,TotalStock,NumberRented
+1,Star Trek 3: Search for Spock,Sci-fi,PG,1.5,Warner,L Nimoy,DVD,7,1
+2,Star Trek 4: The Voyage Home,Sci-fi,PG,1.5,Universal,Abrahams JJ,DVD,0,0
+3,Star Trek 5: The Final Frontier,Sci-fi,PG,1.5,Pixar,William Shatner,DVD,3,1
+4,Demolition Man,Action,R,344,Universal,Marco B,DVD,3,3
+5,Nemesis,Action,R,1.5,Universal,Stuart Baird,DVD,4,0
+6,Full Eclipse,Action,R,1.5,RainTree,Antony Hickox,DVD,6,0
+7,Marked for Death,Action,U,1.5,20th,DH Little,DVD,3,1
+8,Black Rain,Drama,R,1.5,Pixar,Ridley Scott,DVD,4,0
+9,Red Heat,Action,R,1.5,Warner,Water Hill,CD,4,0
+10,Die Hard,Action,R,1.5,Warner,J McTiernan,DVD,2,0
+11,Die Hard 2,Action,R,1.5,Pixar,Renny Harlin,BlueRay,6,1
+12,The Last Starfighter,Sci-fi,PG,1.5,Walt,n/a,DVD,7,0
+13,UHF,Comedy,PG,1.5,Pixar,n/a,DVD,5,0
+14,Firebirds,Action,PG,2,20th,n/a,DVD,2,0
+15,Red Scorpion,Action,R,1.5,RainTree,n/a,DVD,1,0
+16,The Hunt for Red October,Action,PG,2,Pixar,n/a,DVD,2,0
+17,The Godfather 3,Drama,R,1.5,Warner,n/a,Tape,3,0
+18,Navy Seals,Action,R,1.5,Pixar,n/a,CD,5,0
+19,The Punisher,Action,R,1.5,RainTree,n/a,DVD,1,0
+20,Tango and Cash,Action,U,2,Universal,n/a,DVD,6,0
+21,Hard to Kill,Action,R,2,RainTree,n/a,DVD,1,0
+22,Big Trouble in Little China,Action,R,1.5,Walt,n/a,BlueRay,6,1
+23,Harlem Nights,Comedy,R,2,Walt,n/a,DVD,3,0
+24,Star Wars: Making of a Saga,Sci-fi,U,2,Walt,n/a,DVD,6,1
+25,Teenage Mutant Ninja Turtles 2,Action,PG,2,20th,n/a,DVD,4,1
+26,I Come in Peace,Action,R,2,Warner,n/a,DVD,4,2
+27,Air America,Comedy,R,2,Columbia,n/a,CD,4,0
+28,The Untouchables,Drama,PG,2,20th,n/a,DVD,3,0
+29,Red Dawn,Drama,PG,2,Warner,n/a,DVD,1,0
+30,Strange Brew,Comedy,PG,2,RainTree,n/a,DVD,4,0
+31,Pretty Woman,Drama,R,2,RainTree,n/a,DVD,1,0
+32,It,Drama,PG,2,20th,n/a,DVD,4,1
+33,Lethal Weapon,Action,R,2,Walt,n/a,BlueRay,4,1
+34,Nasty Boys,Action,PG,2,Pixar,n/a,Tape,4,0
+35,Steel Dawn,Action,PG,2,Pixar,n/a,DVD,2,1
+36,Ghostbusters,Comedy,PG,2,RainTree,n/a,CD,6,0
+37,Iron Eagle 2,Action,PG,2,RainTree,n/a,DVD,6,0
+38,Predator,Action,R,2,Warner,n/a,DVD,3,0
+39,Iron Eagle,Action,PG,2,Pixar,n/a,DVD,5,0
+40,Dark Man,Drama,R,1,Warner,n/a,DVD,6,1
+41,Kick Boxer,Action,R,2,Pixar,n/a,DVD,2,0
+42,Men at Work,Comedy,U,2,Columbia,n/a,DVD,6,0
+43,Lost Boys,Drama,U,343,20th,n/a,DVD,0,0
+44,Total Recall,Action,R,2,RainTree,n/a,BlueRay,3,1
+45,The First Power,Drama,R,2,Warner,n/a,CD,6,0
+46,Dead Poet Society,Drama,R,2,Pixar,n/a,DVD,1,0
+47,Twins,Comedy,PG,2,RainTree,n/a,DVD,4,0
+48,Flatliners,Drama,R,1,Pixar,n/a,DVD,7,0
+49,Above the Law,Action,R,2,Walt,n/a,DVD,4,2
+50,The Terminator,Action,R,2,Universal,n/a,DVD,3,0
+51,Blood Ties,Drama,PG,2,Pixar,n/a,Tape,2,1
+52,Toy Soldiers,Action,PG,2,RainTree,n/a,DVD,3,0
+53,The Princess Bride,Comedy,PG,1,Columbia,n/a,DVD,2,0
+54,Freejack,Sci-fi,R,3,Warner,n/a,CD,5,0
+55,FX 2,Action,R,2,Columbia,n/a,BlueRay,1,0
+56,The Rocketeer,Action,PG,2,Walt,n/a,DVD,4,0
+57,Terminator 2: Judgement Day,Action,R,2,Walt,n/a,DVD,1,0
+58,Warlock,Horror,R,2,Universal,n/a,DVD,5,3
+59,Eve of Destruction,Action,R,2,Columbia,n/a,DVD,6,0
+60,Hot Shots,Comedy,PG,2,20th,n/a,DVD,6,0
+61,Firestarter,Drama,R,2,Columbia,n/a,DVD,1,0
+62,The Abyss,Drama,R,2,20th,n/a,DVD,5,0
+63,Pump Up the Volume,Drama,R,2,Columbia,n/a,CD,1,1
+64,Dick Tracy,Action,PG,2,Pixar,n/a,DVD,4,2
+65,Gremlins 2: The New Batch,Comedy,PG,2,Columbia,n/a,DVD,0,0
+66,Home Alone,Comedy,PG,2,Pixar,n/a,BlueRay,5,1
+67,Groundhog Day,Comedy,PG,2,Walt,n/a,DVD,7,0
+68,Fire in the Sky,Drama,R,2,Warner,n/a,Tape,2,1
+69,Caddyshack,Comedy,R,2,Pixar,n/a,DVD,5,0
+70,Coming to America,Comedy,R,2,Pixar,n/a,DVD,2,0
+71,Predator 2,Action,R,2,Pixar,n/a,DVD,2,0
+72,I'm Gonna Git you Sucka,Comedy,R,2,20th,n/a,CD,0,0
+73,Career Opportunities,Adventure,R,2,Walt,n/a,DVD,3,0
+74,Highlander,Action,R,2,Pixar,n/a,DVD,3,0
+75,Fantasia,Animation,U,2,Warner,n/a,DVD,0,0
+76,Backdraft,Action,R,2,20th,n/a,DVD,5,0
+77,Weird Science,Comedy,R,2,Walt,n/a,BlueRay,6,0
+78,The Final Countdown,Drama,PG,2,RainTree,n/a,DVD,1,0
+79,Hudson Hawk,Comedy,PG,2,Columbia,n/a,DVD,6,0
+80,What about Bob,Comedy,PG,2,Universal,n/a,DVD,7,0
+81,Oscar,Comedy,PG,2,RainTree,n/a,CD,5,0
+82,The Last Boy Scout,Action,R,2,Columbia,n/a,DVD,0,0
+83,Eric the Viking,Comedy,R,2,Warner,n/a,DVD,7,1
+84,If Looks can Kill,Comedy,PG,2,Pixar,n/a,DVD,7,0
+85,Regarding Henry,Drama,R,1,Warner,n/a,Tape,2,0
+86,Cast a Deadly Spell,Drama,PG,2,RainTree,n/a,DVD,2,0
+87,Out for Justice,Action,R,2,Warner,n/a,DVD,0,0
+88,Dune,Sci-fi,PG,2,Columbia,n/a,BlueRay,4,0
+89,Blade Runner,Sci-fi,R,3,RainTree,n/a,DVD,1,0
+90,Aliens,Sci-fi,R,3,Walt,n/a,CD,1,1
+91,Commando,Action,U,1,Warner,n/a,DVD,6,0
+92,Bill and Ted's Excellent Adventure,Comedy,PG,2,Walt,n/a,DVD,5,0
+93,Edward Scissorhands,Drama,PG,2,RainTree,n/a,DVD,3,0
+94,Robocop 2,Sci-fi,R,3,20th,n/a,DVD,2,0
+95,The Naked Gun,Comedy,R,2,Walt,n/a,DVD,6,0
+96,The Naked Gun 2 1/2,Comedy,R,2,RainTree,n/a,DVD,1,0
+97,My Science Project,Sci-fi,PG,2,Columbia,n/a,DVD,5,2
+98,The Rookie,Action,R,2,Pixar,n/a,DVD,5,0
+99,Raw Deal,Action,R,2,Warner,n/a,CD,4,0
+100,Running Man,Action,R,2,Columbia,n/a,DVD,6,0
+101,Heavy Metal,Animation,R,1.5,Columbia,n/a,DVD,6,0
+102,Back to the Future,Comedy,PG,1.5,Columbia,n/a,Tape,0,0
+103,Back to the Future 2,Comedy,PG,2,Walt,n/a,DVD,4,0
+104,Back to the Future 3,Comedy,PG,1.5,Walt,n/a,DVD,6,0
+105,Bill and Ted's Bogus Journey,Comedy,PG,2,Universal,n/a,DVD,6,0
+106,Wayne's World,Comedy,PG,2,Walt,n/a,DVD,5,0
+107,White Men Can't Jump,Comedy,R,2,Walt,n/a,DVD,5,0
+108,Kuffs,Comedy,R,1.5,RainTree,n/a,CD,3,1
+109,Pure Luck,Comedy,R,2,20th,n/a,DVD,4,0
+110,Major League,Comedy,R,2,RainTree,n/a,BlueRay,3,0
+111,Highlander 2: The Quickening,Action,R,1.5,Universal,n/a,DVD,6,0
+112,Lion Heart,Action,U,2,Pixar,n/a,DVD,2,0
+113,Flight of the Intruder,Action,R,1.5,Warner,n/a,DVD,1,1
+114,Hook,Adventure,PG,2,Columbia,n/a,DVD,5,0
+115,Addams Family,Comedy,PG,2,Walt,n/a,DVD,4,1
+116,Pacific Heights,Drama,R,1.5,Warner,n/a,DVD,6,1
+117,Star Trek 6: The Undiscovered Country,Sci-fi,PG,2,20th,n/a,CD,6,0
+118,Dances with Wolves,Drama,PG,2,Columbia,n/a,DVD,5,0
+119,Hamburger Hill,Action,R,2,Universal,n/a,Tape,6,0
+120,Batman,Action,PG,2,Walt,n/a,DVD,6,0
+121,Jurassic Park,Action,PG,2,Walt,n/a,BlueRay,7,0
+122,JFK,Drama,R,2,Pixar,n/a,DVD,4,0
+123,The Godfather,Drama,R,2,Walt,n/a,DVD,2,0
+124,Medicine Man,Drama,PG,2,RainTree,n/a,DVD,7,0
+125,FX,Drama,R,2,20th,n/a,DVD,4,0
+126,Cliffhanger,Action,R,2,Columbia,n/a,CD,4,0
+127,The Godfather 2,Drama,R,2,Warner,n/a,DVD,2,1
+128,Far and Away,Drama,R,2,RainTree,n/a,DVD,5,0
+129,Platoon,Action,R,1,Universal,n/a,DVD,6,1
+130,Heartbreak Ridge,Action,R,2,20th,n/a,DVD,5,0
+131,The Dead Pool,Action,R,2,Walt,n/a,DVD,1,0
+132,Lawn Mower Man,Horror,R,2,Universal,n/a,BlueRay,5,1
+133,Sleepwalkers,Horror,R,2,RainTree,n/a,DVD,5,0
+134,Batman Returns,Action,PG,2,Universal,n/a,DVD,1,0
+135,Alien 3,Sci-fi,R,2,Universal,n/a,CD,3,0
+136,Firefox,Drama,R,2,Universal,n/a,Tape,0,1
+137,Buffy: The Vampire Slayer,Comedy,PG,2,Columbia,n/a,DVD,4,0
+138,Basic Instinct,Drama,R,2,Universal,n/a,DVD,4,0
+139,Internal Affairs,Drama,R,2,20th,n/a,DVD,0,2
+140,Presumed Innocent,Drama,R,2,Pixar,n/a,DVD,4,1
+141,A League of Their Own,Drama,PG,2,Universal,n/a,DVD,5,0
+142,Patriot Games,Drama,PG,2,Walt,n/a,DVD,2,0
+143,Evil Dead 2,Comedy,R,2,Columbia,n/a,BlueRay,2,1
+144,Sneakers,Action,PG,2,Warner,n/a,CD,3,1
+145,Interceptor,Action,R,2,Columbia,n/a,DVD,3,0
+146,Split Second,Action,R,2,RainTree,n/a,DVD,1,0
+147,Under Siege,Action,R,2,Columbia,n/a,DVD,1,0
+148,Cape Fear (1991),Drama,R,2,20th,n/a,DVD,3,0
+149,The Hand That Rocks the Cradle,Drama,R,1.5,20th,n/a,DVD,5,0
+150,Passenger 57,Action,R,2,RainTree,n/a,DVD,0,0
+151,The Silence of the Lambs,Drama,U,2,Pixar,n/a,DVD,1,0
+152,Goodfellas,Drama,R,1,Pixar,n/a,DVD,6,0
+153,Cool World,Drama,R,1.5,Pixar,n/a,CD,3,0
+154,A Few Good Men,Drama,R,2,Universal,n/a,BlueRay,1,0
+155,The Mighty Ducks,Comedy,PG,1.5,20th,n/a,DVD,2,0
+156,Teenage Mutant Ninja Turtles 3,Action,PG,2,20th,n/a,DVD,5,0
+157,Bram Stoker's Dracula,Drama,R,2,Universal,n/a,DVD,5,0
+158,Monolith,Action,R,2,Warner,n/a,DVD,2,0
+159,Captain Ron,Comedy,PG,2,Columbia,n/a,DVD,3,0
+160,The Best of the Best 2,Adventure,R,2,Warner,n/a,DVD,3,0
+161,Rapid Fire,Adventure,R,1.5,Pixar,n/a,DVD,6,1
+162,Universal Soldier,Action,R,2,Pixar,n/a,CD,1,0
+163,Thunder Heart,Drama,R,2,Walt,n/a,DVD,6,1
+164,Iron Eagle 3: Aces,Action,PG,2,Columbia,n/a,DVD,0,0
+165,Army of Darkness,Action,R,2,20th,n/a,BlueRay,0,0
+166,Willow,Drama,PG,2,Walt,n/a,DVD,1,0
+167,Innocent Blood,Drama,R,2,Universal,n/a,DVD,3,1
+168,Sniper,Drama,R,2,Walt,n/a,DVD,0,0
+169,Alive,Drama,R,2,RainTree,n/a,DVD,2,0
+170,Falling Down,Drama,R,2,RainTree,n/a,Tape,6,0
+171,Rising Sun,Drama,U,2,Pixar,n/a,CD,0,0
+172,Warlock: The Armageddon,Horror,R,2,20th,n/a,DVD,5,-1
+173,Robin Hood: Men in Tights,Comedy,R,1,Columbia,n/a,DVD,6,0
+174,Hot Shots: Part Daux,Comedy,PG,2,Walt,n/a,DVD,4,0
+175,Fortress,Adventure,R,2,Warner,n/a,DVD,2,1
+176,The Fugitive,Drama,R,1,RainTree,n/a,BlueRay,4,1
+177,True Lies,Action,R,2,20th,n/a,DVD,2,2
+178,Blown Away,Adventure,R,2,Pixar,n/a,DVD,5,2
+179,Hackers,Adventure,PG,2,Universal,n/a,DVD,6,1
+180,The Return of Jafar,Animation,U,2,RainTree,n/a,CD,5,0
+181,Star Trek 2: The Wrath of Khan,Sci-fi,PG,2,20th,n/a,DVD,6,1
+182,Robocop 3,Sci-fi,R,2,20th,n/a,DVD,3,0
+183,Batman: Mask of the Phantasm,Animation,PG,2,Universal,n/a,DVD,5,0
+184,Hard Target,Action,R,2,Columbia,n/a,DVD,7,1
+185,In the Line of Fire,Drama,R,2,RainTree,n/a,DVD,6,1
+186,Last Action Hero,Action,R,2,20th,n/a,DVD,0,1
+187,The Specialist,Action,R,2,Universal,n/a,Tape,6,0
+188,Pelican Brief,Drama,R,2,Walt,n/a,DVD,2,0
+189,Airheads,Comedy,R,2,Warner,n/a,CD,6,0
+190,Dave,Comedy,R,2,Columbia,n/a,DVD,3,1
+191,The Crow,Action,R,2,Warner,n/a,DVD,2,0
+192,The Lion King,Animation,U,2,Walt,n/a,DVD,5,0
+193,Star Trek 1: The Motion Picture,Sci-fi,PG,2,Pixar,n/a,DVD,6,0
+194,Usual Suspects,Drama,R,1.5,Universal,n/a,DVD,3,0
+195,No Escape,Action,R,2,20th,n/a,DVD,4,0
+196,The Real McCoy,Adventure,R,1.5,Universal,n/a,DVD,2,2
+197,Mary Shelly's Frankenstein,Drama,R,2,RainTree,n/a,DVD,6,0
+198,Timecop,Action,R,1,Universal,n/a,CD,1,1
+199,Clear and Present Danger,Drama,R,2,Pixar,n/a,DVD,4,1
+200,Star Trek: Generations,Sci-fi,PG,1.5,Warner,n/a,DVD,7,1
+201,Interview with the Vampire,Drama,R,2,RainTree,n/a,DVD,3,1
+202,The Professional,Drama,R,2,20th,n/a,DVD,3,1
+203,New Jack City,Drama,R,1.5,Walt,n/a,DVD,2,1
+204,Independence Day,Sci-fi,R,3,20th,n/a,Tape,7,0
+205,Mission Impossible,Action,R,2,Columbia,n/a,DVD,1,1
+206,Eraser,Action,R,2,Walt,n/a,DVD,5,1
+207,Crimson Tide,Drama,R,1.5,RainTree,n/a,CD,1,1
+208,Apollo 13,Drama,PG,1.5,20th,n/a,DVD,2,1
+209,The Firm,Drama,R,2,Warner,n/a,BlueRay,4,0
+210,Tombstone,Drama,R,2,20th,n/a,DVD,6,1
+211,The Phantom,Action,PG,2,Columbia,n/a,DVD,4,0
+212,The Substitute,Drama,R,2,Universal,n/a,DVD,1,1
+213,Just Cause,Drama,R,2,Pixar,n/a,DVD,3,0
+214,Toy Story,Animation,U,2,20th,n/a,DVD,7,1
+215,Star Trek: First Contact,Sci-fi,PG,2,Pixar,n/a,DVD,1,1
+216,Twister,Drama,R,2,Universal,n/a,CD,6,1
+217,Chain Reaction,Drama,R,2,Universal,n/a,DVD,4,0
+218,Assassins,Drama,R,2,20th,n/a,DVD,0,1
+219,Phenomenon,Drama,R,2,Pixar,n/a,DVD,2,0
+220,Forrest Gump,Drama,PG,2,RainTree,n/a,BlueRay,6,2
+221,Mortal Kombat,Martial Ar,R,2,Walt,n/a,Tape,0,0
+222,Congo,Drama,R,1,RainTree,n/a,DVD,6,1
+223,Metro,Adventure,R,2,RainTree,n/a,DVD,1,0
+224,Absolute Power,Drama,R,2,Universal,n/a,DVD,1,1
+225,Jerry MacGuire,Drama,PG,2,Universal,n/a,CD,2,0
+226,Ransom,Drama,PG,1.5,Walt,n/a,DVD,3,1
+227,Mars Attacks,Comedy,PG,2,RainTree,n/a,DVD,2,0
+228,The Shawshank Redemption,Drama,R,1.5,Pixar,n/a,DVD,1,0
+229,The Craft,Drama,R,2,20th,n/a,DVD,6,0
+230,Dangerous Minds,Drama,R,2,Warner,n/a,DVD,1,0
+231,Beauty and the Beast,Animation,U,1.5,Walt,n/a,BlueRay,1,1
+232,Star Wars,Sci-fi,PG,2,20th,n/a,DVD,6,0
+233,Star Wars (Limited Edition),Sci-fi,PG,2,Walt,n/a,DVD,2,0
+234,Empire Strikes Back,Sci-fi,PG,2,RainTree,n/a,CD,0,0
+235,Empire Strikes Back (Limited Edition),Sci-fi,PG,2,20th,n/a,DVD,7,0
+236,Return of the Jedi,Sci-fi,PG,2,Columbia,n/a,DVD,4,0
+237,Return of the Jedi (Limited Edition),Sci-fi,PG,2,Warner,n/a,DVD,5,0
+238,Aladdin,Animation,U,2,Universal,n/a,Tape,3,0
+239,Lethal Weapon 2,Action,R,2,Warner,n/a,DVD,6,0
+240,Robocop,Sci-fi,R,3,Universal,n/a,DVD,1,0
+241,Robin Hood: Prince of Thieves,Drama,PG,2,Warner,n/a,DVD,2,2
+242,Top gun,Action,PG,2,Universal,n/a,BlueRay,0,1
+243,Raiders of the Lost Ark,Action,PG,2,20th,n/a,CD,2,2
+244,Indiana Jones and the Temple of Doom,Action,PG,2,Warner,n/a,DVD,6,0
+245,Indiana Jones and the Last Crusade,Action,PG,1.5,Walt,n/a,DVD,1,0
+246,Ferris Bueller's Day Off,Comedy,PG,2,Pixar,n/a,DVD,5,1
+247,X-Files (Humbug),Drama,PG,1.5,20th,n/a,DVD,7,0
+248,X-Files (Anasazi),Drama,PG,2,Pixar,n/a,DVD,6,0
+249,X-Files (Colony),Drama,PG,2,20th,n/a,DVD,6,0
+250,X-Files (End Game),Drama,PG,2,Columbia,n/a,DVD,7,0
+251,X-Files (Irresistible),Drama,PG,2,Warner,n/a,DVD,4,0
+252,X-Files (Die Hand Die Verletzt),Drama,PG,2,Pixar,n/a,CD,6,0
+253,X-Files (Ascension),Drama,PG,1.5,RainTree,n/a,BlueRay,4,0
+254,X-Files (One Breath),Drama,PG,2,Walt,n/a,DVD,2,0
+255,X-Files (Sleepless),Drama,PG,2,RainTree,n/a,Tape,1,0
+256,X-Files (Duane Barry),Drama,PG,2,Universal,n/a,DVD,4,0
+257,X-Files (Little Green Men),Drama,PG,2,RainTree,n/a,DVD,6,0
+258,X-Files (The Host),Drama,PG,2,Columbia,n/a,DVD,3,0
+259,X-Files (Darkness Falls),Drama,PG,2,Pixar,n/a,DVD,1,0
+260,X-Files (The Erlenmeyer Flask),Drama,PG,2,20th,n/a,DVD,1,0
+261,X-Files (Beyound The Sea),Drama,PG,2,Columbia,n/a,CD,4,0
+262,X-Files (E.B.E.),Drama,PG,1.5,20th,n/a,DVD,1,0
+263,X-Files (Squeeze),Drama,PG,2,Pixar,n/a,DVD,0,0
+264,X-Files (Tooms),Drama,PG,1.5,Warner,n/a,BlueRay,6,1
+265,X-Files (Conduit),Drama,PG,2,Pixar,n/a,DVD,1,0
+266,X-Files (Ice),Drama,PG,1.5,Walt,n/a,DVD,7,1
+267,X-Files (Fallen Angel),Drama,PG,2,Warner,n/a,DVD,4,0
+268,X-Files (Eve),Drama,PG,1,Walt,n/a,DVD,3,0
+269,X-Files (Pilot),Drama,PG,2,Warner,n/a,DVD,5,1
+270,X-Files (Deep Throat),Drama,PG,2,Universal,n/a,CD,3,0
+271,Teenage Mutant Ninja Turtles,Adventure,PG,1.5,Universal,n/a,DVD,6,1
+272,X-Files (The Blessing Way,Drama,PG,2,Columbia,n/a,Tape,6,1
+273,X-Files (Paper Clip),Drama,PG,2,Walt,n/a,DVD,0,1
+274,X-Files (Clyde Bruckman's Final Repose),Drama,PG,2,Columbia,n/a,DVD,4,0
+275,X-Files (War of the Coprophages),Drama,PG,1.5,Columbia,n/a,BlueRay,4,0
+276,X-Files (Nisei),Drama,PG,2,Warner,n/a,DVD,3,0
+277,X-Files (731),Drama,PG,2,Walt,n/a,DVD,4,0
+278,X-Files (Piper Maru),Drama,PG,2,Walt,n/a,DVD,0,0
+279,X-Files (Apocrypha),Drama,PG,1,RainTree,n/a,CD,6,0
+280,X-Files (Pusher),Drama,PG,2,20th,n/a,DVD,1,0
+281,"X-Files (Jose Chung's ""From Outer Space"")",Drama,PG,2,Walt,n/a,DVD,3,0
+282,X-Files (Wetwired),Drama,PG,1,Columbia,n/a,DVD,4,0
+283,X-Files (Talitha Cumi),Drama,PG,2,Warner,n/a,DVD,6,0
+284,Anastasia,Animated,U,2,20th,n/a,DVD,1,0
+285,Hurcules,Animated,U,2,Warner,n/a,DVD,2,0
+286,The Little Mermaid,Animated,U,2,Columbia,n/a,BlueRay,2,1
+287,Bambi,Animated,U,2,RainTree,n/a,DVD,7,0
+288,Fireball Forward,War,PG,2,20th,n/a,CD,5,0
+289,From Hell to Victory,War,PG,2,Walt,n/a,Tape,3,0
+290,The Bridge on the River Kwai,War,PG,2,Universal,n/a,DVD,1,1
+291,WW II:America at War,War,PG,2,Walt,n/a,DVD,4,0
+292,Die Hard 3: With a Vengeance,Action,R,2,Universal,n/a,DVD,4,0
+293,Spawn,Action,R,2,RainTree,n/a,DVD,2,0
+294,Private Parts,Comedy,R,2,Walt,n/a,DVD,3,0
+295,Seven Years in Tibet,Drama,PG,2,Walt,n/a,DVD,6,0
+296,Volcano,Drama,R,2,Universal,n/a,DVD,3,0
+297,Father's Day,Comedy,R,1.5,RainTree,n/a,CD,1,0
+298,The Nutty Professor,Comedy,R,2,RainTree,n/a,DVD,1,0
+299,Midnight in the Garden of Good and Evil,Drama,R,1.5,Columbia,n/a,DVD,2,0
+300,King Pin,Comedy,R,2,Warner,n/a,DVD,1,0
+301,Liar Liar,Comedy,R,1.5,20th,n/a,DVD,1,1
+302,Nothing to Lose,Comedy,R,2,Warner,n/a,DVD,1,0
+303,The Saint,Action,R,1,20th,n/a,DVD,6,0
+304,Dante's Peak,Drama,R,2,RainTree,n/a,DVD,2,1
+305,The Devil's Own,Drama,R,2,Warner,n/a,DVD,6,1
+306,The Jackle,Action,R,2,Pixar,n/a,CD,6,0
+307,McHale's Navy,Comedy,R,1,Walt,n/a,DVD,1,0
+308,Slingblade,Drama,R,2,Pixar,n/a,BlueRay,6,0
+309,Casino,Drama,R,2,Walt,n/a,DVD,5,0
+310,G. I. Jane,Drama,R,1.5,Pixar,n/a,DVD,2,0
+311,Donny Brasco,Drama,R,2,RainTree,n/a,DVD,3,0
+312,Mercury Rising,Action,R,2,Universal,n/a,DVD,5,0
