@@ -2,3 +2,6 @@
 /target/
 /project.sbt~
 /.cache-main
+/.classpath
+/.project
+/project/
