@@ -1,6 +1,9 @@
 package simple
 
 import org.apache.spark.sql.SparkSession
+import org.apache.log4j.Level
+import org.apache.log4j.Logger
+
 class SparkStarter() {
   // Create the Spark Session and the spark context
   val spark = SparkSession
@@ -98,13 +101,15 @@ class SparkStarter() {
     // Find the balance total using accumulator
     val balanceTotal = sc.accumulator(0.0, "Account Balance Total")
     acBalTuples.map { case (accno, amount) => amount.toDouble }.foreach(bal => balanceTotal += bal)
-    println(balanceTotal.value)
+    println("Account Balance Column Total"+balanceTotal.value)
   }
 
 }
 
 object StarterApps {
   def main(args: Array[String]) {
+    
+  Logger.getLogger("org").setLevel(Level.OFF)
     val sparkStarter = new SparkStarter()
     sparkStarter.gettingStarted()
     sparkStarter.mapReduce()
