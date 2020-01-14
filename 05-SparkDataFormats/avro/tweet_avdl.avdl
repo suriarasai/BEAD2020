@@ -1,0 +1,10 @@
+@namespace("com.tweet.avro")
+protocol TweetAvroProtocol {
+  record TweetAvroAvdl {
+    int target;
+    long id;
+    string `date`;
+    string user;
+    string text;
+  }
+}

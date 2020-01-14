@@ -1,0 +1,12 @@
+{
+     "namespace": "com.tweet.avro",
+     "type": "record",
+     "name": "TweetAvro",
+     "fields":[
+         {  "name": "target", "type": "int"},
+         {  "name": "id", "type": "long"},
+         {  "name": "date",  "type": "string"},
+         {  "name": "user",  "type": "string"},
+         {  "name": "text",  "type": "string"}
+     ]
+}

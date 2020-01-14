@@ -1,0 +1,9 @@
+{
+     "namespace": "com.tweet.avro",
+     "type": "record",
+     "name": "UserTweetAvroOpt",
+     "fields":[
+          {  "name": "user",   "type": ["null", "string"], "default": null},
+          {  "name": "text",   "type": ["null", "string"], "default": null}
+     ]
+}

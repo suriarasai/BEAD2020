@@ -1,0 +1,18 @@
+syntax = "proto3";
+package tweet;
+option java_package = "com.tweet.proto";
+option java_outer_classname = "TweetProtoOuter";
+
+message TweetProto {
+    int64 target       = 1;
+    int64 id           = 2;
+    string date        = 3;
+    string user        = 4;
+    string text        = 9;
+}
+
+
+message UserTweetProto {
+    string text        = 9;
+    string user        = 4;
+}
