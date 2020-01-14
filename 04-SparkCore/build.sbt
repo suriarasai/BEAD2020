@@ -1,4 +1,4 @@
-name := "05-SparkCore"
+name := "04-SparkCore"
 
 version := "1.0"
 
