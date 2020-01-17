@@ -20,7 +20,7 @@ object AllInOneClassification {
 		val sc = new SparkContext("local[2]", "Classification")
 
 		// get StumbleUpon dataset 'https://www.kaggle.com/c/stumbleupon'
-		val records = sc.textFile("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/train_noheader.tsv").map(line => line.split("\t"))
+		val records = sc.textFile("/home/cloudera/git/BEAD2020/06-SparkML/data/classification/train_noheader.tsv").map(line => line.split("\t"))
 			val data = records.map { r =>
 			val trimmed = r.map(_.replaceAll("\"", ""))
 			val label = trimmed(r.size - 1).toInt
