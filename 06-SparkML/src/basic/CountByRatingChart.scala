@@ -27,7 +27,7 @@ object CountByRatingChart {
 
     val rating_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "\t").schema(customSchema)
-      .load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/movielens/u.data")
+      .load("/home/cloudera/git/BEAD2020/06-SparkML/data/movielens/u.data")
 
     val rating_df_count = rating_df.groupBy("rating").count().sort("rating")
      rating_df_count.show()
