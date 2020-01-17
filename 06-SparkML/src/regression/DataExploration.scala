@@ -23,12 +23,12 @@ object DataExploration {
       sqlContext.read.format("com.databricks.spark.csv")
         .option("header", "true")
         .option("inferSchema", "true")
-        .load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/regression/Sales_Train.csv")
+        .load("/home/cloudera/git/BEAD2020/06-SparkML/data/regression/Sales_Train.csv")
     val sales_data_test =
       sqlContext.read.format("com.databricks.spark.csv")
         .option("header", "true")
         .option("inferSchema", "true")
-        .load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/regression/Sales_Test.csv")
+        .load("/home/cloudera/git/BEAD2020/06-SparkML/data/regression/Sales_Test.csv")
     val sales_data_union = sales_data_train.unionAll(sales_data_test)
     val sales_data = sales_data_union.withColumn(
       "Item_Outlet_Sales",
