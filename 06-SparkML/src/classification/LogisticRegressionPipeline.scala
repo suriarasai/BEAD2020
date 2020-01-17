@@ -56,10 +56,10 @@ object LogisticRegressionPipeline {
     val accuracy = lrTotalCorrect/totalPoints
     println("Accuracy of LogisticRegression is: ", accuracy)
 
-    holdout.rdd.map(x => x(0).asInstanceOf[Double]).repartition(1).saveAsTextFile("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/results/LR.xls")
-    holdout.rdd.map(x => x(1).asInstanceOf[Double]).repartition(1).saveAsTextFile("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/results/Actual.xls")
+    holdout.rdd.map(x => x(0).asInstanceOf[Double]).repartition(1).saveAsTextFile("/home/cloudera/git/BEAD2020/06-SparkML/data/classification/results/LR.xls")
+    holdout.rdd.map(x => x(1).asInstanceOf[Double]).repartition(1).saveAsTextFile("/home/cloudera/git/BEAD2020/06-SparkML/data/classification/results/Actual.xls")
 
-    savePredictions(holdout, dataFrame, rm, "/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/results/LogisticRegression.csv")
+    savePredictions(holdout, dataFrame, rm, "/home/cloudera/git/BEAD2020/06-SparkML/data/classification/results/LogisticRegression.csv")
   }
 
   def savePredictions(predictions:DataFrame, testRaw:DataFrame, regressionMetrics: RegressionMetrics, filePath:String) = {
