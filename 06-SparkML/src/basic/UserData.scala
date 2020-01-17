@@ -21,7 +21,7 @@ package object UserData {
 
     val user_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "|").schema(customSchema)
-      .load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/movielens/u.user")
+      .load("/home/cloudera/git/BEAD2020/06-SparkML/data/movielens/u.user")
     val first = user_df.first()
     println("First Record : " + first)
 
