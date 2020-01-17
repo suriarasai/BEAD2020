@@ -17,7 +17,7 @@ object LogisticRegressionSummaryExample {
     import spark.implicits._
 
     // Load training data
-    val training = spark.read.format("libsvm").load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/sample_libsvm_data.txt")
+    val training = spark.read.format("libsvm").load("/home/cloudera/git/BEAD2020/06-SparkML/data/classification/sample_libsvm_data.txt")
 
     val lr = new LogisticRegression()
       .setMaxIter(10)
