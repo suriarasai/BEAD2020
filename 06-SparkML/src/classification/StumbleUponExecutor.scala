@@ -20,7 +20,7 @@ object StumbleUponExecutor {
 
     // get dataframe
     val df = sqlContext.read.format("com.databricks.spark.csv").option("delimiter", "\t").option("header", "true")
-      .option("inferSchema", "true").load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/classification/train.tsv")
+      .option("inferSchema", "true").load("/home/cloudera/git/BEAD2020/06-SparkML/data/classification/train.tsv")
 
     // pre-processing
     df.registerTempTable("StumbleUpon")
