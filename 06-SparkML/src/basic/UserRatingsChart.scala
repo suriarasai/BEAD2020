@@ -24,7 +24,7 @@ object UserRatingsChart {
 
     val rating_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "\t").schema(customSchema)
-      .load("/home/cloudera/git/BEAD-SEP19/W07-SparkML/data/movielens/u.data")
+      .load("/home/cloudera/git/BEAD2020/06-SparkML/data/movielens/u.data")
 
     val rating_nos_by_user = rating_df.groupBy("user_id").count().sort("count")
     val ds = new org.jfree.data.category.DefaultCategoryDataset
